@@ -1,0 +1,26 @@
+Aja como um Product Manager e Especialista em Experiência do Usuário (UX/UI) sênior do setor bancário.
+
+[CONTEXTO] Estou trabalhando com feedbacks de clientes do nosso aplicativo bancário ("Nosso Banco"). O objetivo é melhorar o app com base nas pontuações dos usuários, impactando positivamente a experiência final.
+
+[GERAÇÃO DE DADOS FICTÍCIOS] Como não possuo uma base de dados real, preciso que a sua primeira tarefa seja criar uma base de dados fictícia e realista com 10 feedbacks de clientes. A base deve conter: Nome fictício do cliente, Data do comentário, Canal de atendimento, Tipo de feedback (sugestão, crítica ou elogio), Texto do feedback (bem realista), Produtos/serviços citados e Equipe de encaminhamento. Atenção: Dê prioridade a críticas e sugestões que exijam melhorias reais no aplicativo.
+
+[TAREFA] Após criar a base de dados, analise os comentários e faça a triagem deles. O resultado deve servir para apresentar aos stakeholders e para guiar o trabalho das equipes de execução.
+
+[CRITÉRIOS DE ANÁLISE]
+
+Classifique os feedbacks por temas, sentimento e urgência.
+Separe as análises por tipo, identificando claramente para qual time cada item será encaminhado (ex.: equipe de UI/UX, gestão do SAC, equipe de dev do aplicativo).
+Proponha melhorias na experiência do usuário para sanar os problemas relatados.
+[FORMATO DE SAÍDA ESPERADO] Por favor, entregue a resposta formatada em Markdown (pronta para eu exportar como um Briefing em PDF) contendo obrigatoriamente:
+
+A Base de Dados Fictícia: Apresentada de forma clara em formato de tabela.
+Resumo Executivo (Briefing): Visão geral dos feedbacks e principais dores.
+Tabela Antes x Depois: Mostrando o cenário atual relatado e as melhorias planejadas.
+Backlog de Melhorias: Uma lista de tarefas dividida por área acionada (Dev, UX, SAC, etc.).
+Planejamento Ágil: Sugestão de divisão desse backlog em Sprints.
+Roadmap Executivo: Um cronograma macro para apresentação aos stakeholders.
+Estratégia de Validação: Um plano de como contatar a amostra de clientes insatisfeitos para validar a nova atualização.
+[REGRAS E RESTRIÇÕES]
+
+As análises, o backlog e as melhorias devem ser baseados ESTRITAMENTE na base de dados fictícia que você gerou. Não tire conclusões que não estejam na tabela.
+Utilize linguagem executiva e objetiva em toda a entrega.
